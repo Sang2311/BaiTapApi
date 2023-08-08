@@ -1,0 +1,43 @@
+.login {
+  height: 100vh;
+  width: 100%;
+  background: linear-gradient(120deg, #3ca7ee, #9b408f);
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.containerLogin {
+  width: 400px;
+  border: none;
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 40px;
+}
+.containerLogin h1 {
+  text-align: center;
+}
+.from-control {
+  width: 100%;
+}
+.from-control input {
+  width: 100%;
+  height: 40px;
+  font-size: 16px;
+  border: none;
+  outline: none;
+  border-bottom: 2px solid #ccc;
+}
+.LoginDangNhap {
+  text-decoration: none;
+  color: #fff;
+  background-color: #9b408f;
+  min-width: 80px;
+  text-align: center;
+  display: inline-block;
+  padding: 8px 40px;
+  border-radius: 10px;
+  margin-top: 20px;
+  margin-left: 82px;
+}

@@ -1,0 +1,15 @@
+.containerMainPage {
+  display: flex;
+  gap: 25px;
+  margin: 25px 25px;
+}
+a {
+  text-decoration: none;
+  color: #fff;
+  background-color: blue;
+  min-width: 80px;
+  text-align: center;
+  display: inline-block;
+  padding: 8px 16px;
+  border-radius: 999px;
+}

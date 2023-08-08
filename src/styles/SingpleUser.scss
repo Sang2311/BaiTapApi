@@ -1,0 +1,19 @@
+.containerSingpleUser {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 700px;
+  height: auto;
+  border: 2px solid #ccc;
+}
+.singpleUserItem {
+  display: flex;
+  flex: 1.5;
+  flex-direction: column;
+  padding: 30px;
+}
+.singpleUserAvatar {
+  display: flex;
+  flex: 1;
+  margin-right: 50px;
+}

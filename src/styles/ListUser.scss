@@ -1,0 +1,26 @@
+.container {
+  width: 700px;
+  height: auto;
+  padding: 0 25px;
+  margin: 0 auto;
+  border: 2px solid #ccc;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 15px;
+}
+.item {
+  flex: 1.5;
+  margin: 2px;
+}
+.item-img {
+  width: 20px;
+  height: auto;
+  flex: 1;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.item-img img {
+  border-radius: 50%;
+}
